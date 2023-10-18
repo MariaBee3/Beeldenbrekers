@@ -1,0 +1,28 @@
+html,
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+  margin: auto;
+  padding: 2rem 4rem;
+  background-color: white;
+}
+
+.m-4 {
+  margin: 1rem 4rem;
+}
+
+.btn {
+  padding: 1rem;
+  background-color: violet;
+}
+
+.btn:hover {
+  background-color: blueviolet;
+  color: white;
+}
+
+.textImageBlock {
+  display: flex;
+}
