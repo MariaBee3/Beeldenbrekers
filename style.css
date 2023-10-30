@@ -6,11 +6,11 @@ body {
 body {
   margin: auto;
   padding: 2rem 4rem;
-  background-color: white;
+  background-color: brown;
 }
 
 .m-4 {
-  margin: 1rem 4rem;
+  margin: 1rem 2rem;
 }
 
 .btn {
@@ -25,4 +25,5 @@ body {
 
 .textImageBlock {
   display: flex;
+  border: 2px solid green;
 }
